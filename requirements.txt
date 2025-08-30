@@ -1,0 +1,4 @@
+# Tkinter ships with Python; tkcalendar does not.
+tkcalendar
+# For auto weather (Open-Meteo). If offline, app still works with fallback.
+requests
